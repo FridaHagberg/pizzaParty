@@ -8,3 +8,4 @@
 - arugula
 - cilantro
 - lime
+- pineapple
